@@ -1,0 +1,10 @@
+Exercício – Classe Turma
+
+Crie uma classe Turma com os atributos turmaIdentificador e periodo.
+
+Na mesma classe, crie dois métodos:
+- Um método que receba e percorra um array de idades dos alunos da turma, imprimindo cada uma;
+- Outro que imprima os demais atributos de cada objeto.
+
+Na classe principal (main), criar dois objetos da classe Turma, atribuindo valores diferentes para cada um, além de criar um array de idades dos alunos para cada turma, que deverá ser passado para o método que irá percorrê-lo. Por fim, executar os métodos para cada objeto.
+
