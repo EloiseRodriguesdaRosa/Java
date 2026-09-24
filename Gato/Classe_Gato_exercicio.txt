@@ -1,0 +1,14 @@
+Exercício – Classe Gato
+Crie uma classe Gato com os atributos nome, idade (em meses) e sexo.
+
+Na mesma classe, crie dois métodos:
+
+- Um método que verifique a idade do gato. Se o felino tiver 5 meses ou mais, deverá imprimir:
+"Pode ser castrado."
+Caso contrário, deverá imprimir:
+"Animal muito novo."
+Se a idade for negativa ou maior que 240 meses (idade máxima estimada de um gato), deverá imprimir:
+"Idade inválida."
+- Um método que imprima o nome, a idade em meses e o sexo do gato.
+
+Na classe principal (main), crie três objetos da classe Gato, atribuindo valores diferentes para cada um, e execute os dois métodos para cada objeto.
