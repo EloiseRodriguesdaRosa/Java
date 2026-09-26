@@ -1,8 +1,8 @@
 package vetores;
 import java.util.Scanner;
 
+//Faça um algoritmo que leia 10 números inteiros e depois imprima os números pares.
 public class Exemplo02 {
-    //Faça um algoritmo que leia 20 números inteiros e depois imprima os números pares.
     
     public void lerImprimirNumeros(){
         
