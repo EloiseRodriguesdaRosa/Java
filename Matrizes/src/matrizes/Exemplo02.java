@@ -2,6 +2,7 @@ package matrizes;
 import java.util.Scanner;
 
 //Faça um algoritmo que receba o número de alunos a serem cadastrados e cadastre 3 notas para cada um dos alunos.
+//Em seguida, imprima.
 public class Exemplo02 {
     
     public void cadastrarNotas(){
