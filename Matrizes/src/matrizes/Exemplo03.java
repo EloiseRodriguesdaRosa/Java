@@ -1,7 +1,7 @@
 package matrizes;
 import java.util.Scanner;
 /*Faça um algoritmo que leia uma tabela de valores reais com 2 linhas e 3 colunas
-e depois imprima os números ímpares
+e depois imprima os números ímpares.
 */
 public class Exemplo03 {
     
@@ -12,7 +12,7 @@ public class Exemplo03 {
         
         for(int i=0;i<valores.length;i++){
             for(int j=0;j<valores[i].length;j++){
-                System.out.printf("Informe o valor para a posicao (%d, %d) da tabela:",(i+1),(j+1));
+                System.out.printf("Informe o valor para a posicao (%d, %d) da tabela: ",(i+1),(j+1));
                 valores[i][j] = entrada.nextDouble();
             }
         }

@@ -13,11 +13,15 @@ public class Matrizes {
         //Exemplo02
         System.out.println("\n\nCadastro de notas:");
         Exemplo02 exemplo02 = new Exemplo02();
-        exemplo02.cadastrarNotas();*/
+        exemplo02.cadastrarNotas();
         
         //Exemplo03
         Exemplo03 exemplo03 = new Exemplo03();
-        exemplo03.receberValores();
+        exemplo03.receberValores();*/
+        
+        //Exemplo04
+        Exemplo04 exemplo04 = new Exemplo04();
+        System.out.println(exemplo04.descobreMaiorValor());
     }
     
 }
